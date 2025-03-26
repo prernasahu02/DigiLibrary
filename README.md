@@ -34,7 +34,7 @@ src/
 
 ### 📥 Clone the Repository:
 ```bash
-git clone https://github.com/prernasahu02/digilibrary.git
+git clone https://github.com/prernasahu02/DigiLibrary.git
 ```
 
 ### 📂 Import to IDE:
